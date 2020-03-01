@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/oneStepRedis/oneStepRedis.iml" filepath="$PROJECT_DIR$/oneStepRedis/oneStepRedis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/one_redis_workspace.iml" filepath="$PROJECT_DIR$/.idea/one_redis_workspace.iml" />
+    </modules>
+  </component>
+</project>
